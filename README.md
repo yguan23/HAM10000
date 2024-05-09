@@ -1,5 +1,5 @@
 # HAM10000
-深度學習專題
+深度學習專題(Project of Deep Learning)
 
 **皮膚鏡影像病變分析**  
 **Skin Cancer MNIST: HAM10000**
